@@ -1,0 +1,4 @@
+name: MineclubEmojis
+version: '1.0-SNAPSHOT'
+main: org.tortel.mineclubemojis.Main
+api-version: '1.19'
